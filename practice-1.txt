@@ -8,3 +8,4 @@
 8)i created b-1 in the remote and i will fetch it to the local and then i will create another branch 
   and that will be here
 9) i created feature branch 
+10)this is for the b-1
