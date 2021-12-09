@@ -5,3 +5,5 @@
 5)i remotedly added and upload the file
 6)again i updated and upload 
 7)i created a branch now i am in the branch
+8)i created b-1 in the remote and i will fetch it to the local and then i will create another branch 
+  and that will be here
